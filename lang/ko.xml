@@ -179,6 +179,7 @@
         <atari800>Atari 8비트 제품군은 Atari, Inc.에서 1979년에 Atari 400 및 Atari 800으로 소개하고 1992년까지 제조된 일련의 8비트 가정용 컴퓨터입니다. 제품군의 모든 기계는 기술적으로 유사하며 주로 포장이 다릅니다. </atari800>
         <daphne>Daphne은 Matt Ownby가 개발한 Windows, Linux 및 Mac OS X용 아케이드 게임 에뮬레이터입니다. 대부분의 Sega LaserDisc 하드웨어 게임을 포함하여 여러 LaserDisc 기반 시스템용 게임을 실행합니다. </daphne>
         <fbneo>Final Burn Neo는 아케이드 게임 및 일부 콘솔용 에뮬레이터입니다. FinalBurn 및 옛버전의 MAME 에뮬레이터를 기반으로 합니다.</fbneo>
+	<prboom>Doom은 1993년에 처음 출시된 비디오 게임 프랜차이즈입니다. 이 시리즈는 Union Aerospace Corporation(UAC)의 후원을 받아 수많은 악마와 언데드에 맞서 싸우는 이름 없는 우주 해병의 활약에 초점을 맞추고 있습니다.</prboom>
         <gc>GameCube는 Nintendo의 6세대 비디오 게임 콘솔에 진입했으며, 이전 콘솔인 Nintendo 64의 후속 제품입니다. GameCube는 Sony의 PlayStation 2 및 Microsoft의 Xbox와 경쟁했습니다.</gc>
         <mplayer> </mplayer>
         <msx2>MSX는 1983년 6월 16일에 Microsoft와 ASCII가 발표한 표준화 된 가정용 컴퓨터 아키텍처입니다. 처음에는 Microsoft가 동양 지역의 상품으로 구상되었고, 당시 Microsoft 부사장이자 ASCII Corporation의 이사였던 Kazuhiko Nishi가 공동으로 마케팅하였습니다.</msx2>
@@ -294,5 +295,7 @@
 	<sharpx1>Sharp X1 또는 CZ-800C라고도 하는 X1은 1982년부터 1988년까지 Sharp Corporation에서 출시한 가정용 컴퓨터 시리즈입니다. Zilog Z80 CPU를 기반으로 합니다. X1의 RGB 디스플레이 모니터에는 텔레비전 튜너가 있었고 컴퓨터 화면을 TV에 오버레이할 수 있었습니다.</sharpx1>
 	<pgm>PolyGame Master(PGM)는 대만 회사 IGS가 1997년에 출시한 아케이드 시스템 보드입니다. PGM은 대만에서 SNK의 네오지오 MVS 시스템과 경쟁하기 위해 개발되었습니다. 2007년에는 PGM2가, 2012년에는 PGM3가 그 뒤를 이었습니다.</pgm>
 	<pgm2>IGS PolyGame Master 2는 IGS에서 2007년에 출시한 아케이드 시스템으로, IGS PolyGame Master의 후속작입니다. 여기에는 몇 가지 비디오 게임이 탑재되어 있으며, 그 중 가장 유명한 게임은 Knights of Valour 시리즈의 Knights of Valour 3입니다. </pgm2>
+	<megaduck>Mega Duck WG-108(Cogar Boy라고도 함)은 홍콩에 본사를 둔 Welback Holdings가 Timlex International 사업부를 통해 개발 및 제조하고 1993년에 출시한 휴대용 게임 콘솔입니다.</megaduck>
+	<fmtmarty>FM Towns Marty는 Fujitsu가 1989년에 출시한 FM Towns 컴퓨터 시스템을 기반으로 한 5세대 16비트 비디오 게임 콘솔입니다. Marty는 이전 FM Towns 게임과 역호환되었습니다.</fmtmarty>
     </variables>
 </theme>
